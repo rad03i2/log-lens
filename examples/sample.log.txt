@@ -1,0 +1,5 @@
+2026-09-21T10:00:00Z INFO application started
+2026-09-21T10:00:03Z DEBUG cache warmed
+2026-09-21T10:01:11Z WARNING request latency elevated
+2026-09-21T10:02:42Z ERROR database timeout after 5s
+2026-09-21T10:03:00Z INFO retry succeeded
